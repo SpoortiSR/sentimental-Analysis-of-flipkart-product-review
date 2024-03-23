@@ -1,4 +1,4 @@
-# sentimental-Analysis-of-flipkart-product-review
+# Sentimental-Analysis-of-flipkart-product-reviews
 
 Sentiment Analysis of Real-time Flipkart Product Reviews
 
